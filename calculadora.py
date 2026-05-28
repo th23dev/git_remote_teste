@@ -21,4 +21,4 @@ elif opcao == 4:
     resultado = num1 / num2
     print(f"O resultado da divisão é: {resultado}")
 
-print("Finalizando programa...)
+print("Finalizando programa...")
